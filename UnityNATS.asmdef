@@ -1,16 +1,19 @@
 {
-    "name": "UnityNATS",
-    "references": [],
-    "includePlatforms": [
-        "LinuxStandalone64",
-        "WindowsStandalone64"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+  "name": "UnityNATS",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor",
+    "LinuxStandalone32",
+    "LinuxStandalone64",
+    "WindowsStandalone32",
+    "WindowsStandalone64"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": []
 }
