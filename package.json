@@ -1,0 +1,14 @@
+{
+    "name": "com.barantaran.unitynats",
+    "displayName": "Unity NATS",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "NATS connection for Unity",
+    "keywords": [
+        "unity",
+        "NATS",
+        "network",
+        "programming"
+    ],
+    "category": "Network"
+}
